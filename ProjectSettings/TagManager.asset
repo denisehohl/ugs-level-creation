@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hazard
+  - Goal
+  - Start
+  - Danger
+  - UICursor
+  - UILevel
+  - Ground
+  - Breakable
+  - Coin
+  - DontReOrientAlongWall
+  - WayPoint
+  - IntroTimeline
+  - SpeedBoost
+  - Crystal
+  - LapGoal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Placement
+  - Water
+  - UI
+  - Tunnel
+  - 
+  - Ground
+  - Forbidden
+  - Hazards
+  - Stage
+  - ColliderBall
+  - Chasis
+  - Blockade
+  - NonePlayerCollision
+  - Holes
+  - Plattforms
+  - InHole
+  - Coin
+  - Mask
+  - PlacementGrid
+  - 
+  - 
+  - 
+  - 
+  - Player 1
+  - Player 2
+  - Player 3
+  - Player 4
+  - Player 5
+  - Player 6
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2524006405
+    locked: 0
+  - name: FG
+    uniqueID: 2348763757
+    locked: 0
